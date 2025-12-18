@@ -27,4 +27,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=withnikhil96&icon=10&color=6)](https://visitcount.itsvg.in)
 
+
+![snake gif](https://github.com/withnikhil96/withnikhil96/blob/output/github-snake-dark.svg)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
