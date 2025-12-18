@@ -1,3 +1,9 @@
+<div align="center">
+ <a class="link" href="https://github.com/codeflowjs/codeflowjs/blame/main/header.svg">
+  <img class="image" src="header.svg" alt="Click to see the source">
+ </a>
+</div>
+
 # 💫 About Me:
 👋 Hi, I'm Nikhil<br><br>💻 Frontend Developer with 2.5+ years of experience building responsive web apps using React, Next.js, and Tailwind CSS.<br><br>🚀 Currently working on end-to-end web projects, handling UI development, client requirements, deployments, domains, and payment integrations.<br><br>🌱 Learning advanced Next.js patterns, performance optimization, and scalable frontend architecture.<br><br>🤝 Open to collaborating on frontend, CMS, and full-stack web projects.<br><br>⚡ Fun fact: Started as a Civil Engineer, now building digital structures.
 
